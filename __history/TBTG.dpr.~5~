@@ -1,0 +1,19 @@
+program TBTG;
+
+uses
+  System.StartUpCopy,
+  FMX.Forms,
+  classTile in 'classTile.pas',
+  classUnits in 'classUnits.pas',
+  classWorld in 'classWorld.pas',
+  GameValues in 'GameValues.pas',
+  Main in 'Main.pas' {MainForm},
+  WorldGen in 'WorldGen.pas';
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.CreateForm(TMainForm, MainForm);
+  Application.Run;
+end.

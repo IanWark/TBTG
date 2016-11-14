@@ -1,0 +1,12 @@
+Hack and Slash 2D Avatars
+Copyright © 2012 Seth Galbraith
+
+You may copy, modify or redistribute these under the terms of the
+Creative Commons Attribution-Sharealike 3.0 license
+http://creativecommons.org/licenses/by-sa/3.0/
+or the GNU General Public License 3.0
+http://www.gnu.org/licenses/gpl-3.0.html
+
+(If you share these under both licenses, then you extend the same freedom
+to others that was given to you. That's what I recommend.)
+

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/07/23 21:42:23.000.428,=C:\Users\allan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/07/23 22:42:26.000.969,=C:\Users\allan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/07/23 22:43:05.000.471,=C:\Users\allan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/07/26 19:36:25.000.707,=C:\Users\allan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/08/10 04:59:09.000.285,=C:\Users\allan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/08/13 01:49:36.000.684,=C:\Users\allan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/08/13 01:49:45.000.244,=C:\Users\allan\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2016/08/13 01:49:55.000.534,C:\Users\allan\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\allan\Documents\Embarcadero\Studio\Projects\WorldGen.pas</Transaction>
+    <Transaction>2016/08/13 01:50:01.000.448,C:\Users\allan\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\allan\Documents\Embarcadero\Studio\Projects\Main.fmx</Transaction>
+    <Transaction>2016/08/13 01:50:01.000.448,C:\Users\allan\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\allan\Documents\Embarcadero\Studio\Projects\Main.pas</Transaction>
+    <Transaction>2016/08/13 01:50:06.000.699,C:\Users\allan\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\allan\Documents\Embarcadero\Studio\Projects\TBTG.dproj</Transaction>
+    <Transaction>2016/08/13 01:51:34.000.594,=C:\Users\allan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/08/13 01:52:17.000.445,C:\Users\allan\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\allan\Documents\Embarcadero\Studio\Projects\TBTG\classTile.pas</Transaction>
+    <Transaction>2016/08/13 01:52:52.000.873,=C:\Users\allan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/08/13 01:52:58.000.365,C:\Users\allan\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\allan\Documents\Embarcadero\Studio\Projects\GameValues.pas</Transaction>
+    <Transaction>2016/08/13 02:06:45.000.206,=C:\Users\allan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/08/13 02:15:51.000.801,C:\Users\allan\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\allan\Documents\Embarcadero\Studio\Projects\classWorld.pas</Transaction>
+    <Transaction>2016/08/13 02:35:08.000.333,=C:\Users\allan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/08/13 02:35:18.000.530,C:\Users\allan\Documents\Embarcadero\Studio\Projects\classUnits.pas=C:\Users\allan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/08/13 02:35:57.000.552,C:\Users\allan\Documents\Embarcadero\Studio\Projects\TBTH\classUnits.pas=C:\Users\allan\Documents\Embarcadero\Studio\Projects\classUnits.pas</Transaction>
+    <Transaction>2016/08/13 02:36:03.000.668,C:\Users\allan\Documents\Embarcadero\Studio\Projects\TBTG\classWorld.pas=C:\Users\allan\Documents\Embarcadero\Studio\Projects\classWorld.pas</Transaction>
+    <Transaction>2016/08/13 02:36:09.000.179,C:\Users\allan\Documents\Embarcadero\Studio\Projects\TBTG\GameValues.pas=C:\Users\allan\Documents\Embarcadero\Studio\Projects\GameValues.pas</Transaction>
+    <Transaction>2016/08/13 02:36:14.000.953,C:\Users\allan\Documents\Embarcadero\Studio\Projects\TBTG\Main.pas=C:\Users\allan\Documents\Embarcadero\Studio\Projects\Main.pas</Transaction>
+    <Transaction>2016/08/13 02:36:14.000.953,C:\Users\allan\Documents\Embarcadero\Studio\Projects\TBTG\Main.fmx=C:\Users\allan\Documents\Embarcadero\Studio\Projects\Main.fmx</Transaction>
+    <Transaction>2016/08/13 02:36:14.000.962,C:\Users\allan\Documents\Embarcadero\Studio\Projects\Main.fmx=C:\Users\allan\Documents\Embarcadero\Studio\Projects\TBTG\Main.fmx</Transaction>
+    <Transaction>2016/08/13 02:36:14.000.962,C:\Users\allan\Documents\Embarcadero\Studio\Projects\Main.pas=C:\Users\allan\Documents\Embarcadero\Studio\Projects\TBTG\Main.pas</Transaction>
+    <Transaction>2016/08/13 02:36:24.000.052,C:\Users\allan\Documents\Embarcadero\Studio\Projects\WorldGen.pas=C:\Users\allan\Documents\Embarcadero\Studio\Projects\TBTG\WorldGen.pas</Transaction>
+    <Transaction>2016/08/13 02:36:24.000.044,C:\Users\allan\Documents\Embarcadero\Studio\Projects\TBTG\WorldGen.pas=C:\Users\allan\Documents\Embarcadero\Studio\Projects\WorldGen.pas</Transaction>
+    <Transaction>2016/08/13 02:39:46.000.532,C:\Users\allan\Documents\Embarcadero\Studio\Projects\TBTG\WorldGen.pas=</Transaction>
+    <Transaction>2016/08/13 02:40:18.000.544,=C:\Users\allan\Documents\Embarcadero\Studio\Projects\TBTG\classWorld.pas</Transaction>
+    <Transaction>2016/08/13 02:40:18.000.514,=C:\Users\allan\Documents\Embarcadero\Studio\Projects\TBTG\classTile.pas</Transaction>
+    <Transaction>2016/08/13 02:40:18.000.529,=C:\Users\allan\Documents\Embarcadero\Studio\Projects\TBTG\classUnits.pas</Transaction>
+    <Transaction>2016/08/13 02:40:18.000.589,=C:\Users\allan\Documents\Embarcadero\Studio\Projects\TBTG\WorldGen.pas</Transaction>
+    <Transaction>2016/08/13 02:40:18.000.557,=C:\Users\allan\Documents\Embarcadero\Studio\Projects\TBTG\GameValues.pas</Transaction>
+    <Transaction>2016/08/14 20:21:05.000.898,C:\Users\allan\Documents\Embarcadero\Studio\Projects\TBTG\classUnit.pas=C:\Users\allan\Documents\Embarcadero\Studio\Projects\TBTG\classUnits.pas</Transaction>
+    <Transaction>2016/08/14 20:21:20.000.390,=C:\Users\allan\Documents\Embarcadero\Studio\Projects\TBTG\Unit1.pas</Transaction>
+    <Transaction>2016/08/14 20:21:28.000.681,C:\Users\allan\Documents\Embarcadero\Studio\Projects\TBTG\classSword.pas=C:\Users\allan\Documents\Embarcadero\Studio\Projects\TBTG\Unit1.pas</Transaction>
+    <Transaction>2016/08/14 20:21:57.000.696,C:\Users\allan\Documents\Embarcadero\Studio\Projects\TBTG\classUnitTypes.pas=C:\Users\allan\Documents\Embarcadero\Studio\Projects\TBTG\classSword.pas</Transaction>
+    <Transaction>2016/08/14 22:01:58.000.338,C:\Users\allan\Documents\Embarcadero\Studio\Projects\TBTG\classUnitTypes.pas=</Transaction>
+    <Transaction>2016/08/16 03:55:52.000.341,=C:\Users\allan\Documents\Embarcadero\Studio\Projects\TBTG\Unit1.pas</Transaction>
+    <Transaction>2016/08/16 03:58:32.000.385,C:\Users\allan\Documents\Embarcadero\Studio\Projects\TBTG\Unit1.pas=C:\Users\allan\Documents\Embarcadero\Studio\Projects\TBTG\classValues.pas</Transaction>
+    <Transaction>2016/08/16 03:58:40.000.435,C:\Users\allan\Documents\Embarcadero\Studio\Projects\TBTG\classValues.pas=C:\Users\allan\Documents\Embarcadero\Studio\Projects\TBTG\classActValues.pas</Transaction>
+    <Transaction>2016/11/08 00:48:01.000.859,=C:\Users\allan\Documents\Embarcadero\Studio\Projects\TBTG\Unit1.pas</Transaction>
+    <Transaction>2016/11/08 00:50:49.000.985,C:\Users\allan\Documents\Embarcadero\Studio\Projects\TBTG\Unit1.pas=C:\Users\allan\Documents\Embarcadero\Studio\Projects\TBTG\Tutorial.pas</Transaction>
+    <Transaction>2016/11/14 00:05:26.359,C:\Users\allan\Documents\Embarcadero\Studio\Projects\TBTG\WorldGen.pas=</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="42f7d80717fdafed"/>
+	</ActiveMobileDevice>
+</BorlandProject>
