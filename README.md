@@ -1,7 +1,7 @@
 # TBTG
 A simple Turn Based Tactics Game with randomly generated levels made in Delphi.
 
-A lot of the game's constants can be tweaked in GameValues
+A lot of the game's constants can be tweaked in GameValues.pas
 
 Reading Delphi:
 
